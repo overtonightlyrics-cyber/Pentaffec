@@ -1,1 +1,2 @@
-Pentaffec is a free PDF Editor Designed by EkstaSystems
+Pentaffec is a free PDF Editor Designed by EkstaSystems.
+Check releases to find installers for Windows and Linux.
